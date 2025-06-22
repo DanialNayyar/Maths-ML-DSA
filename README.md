@@ -10,7 +10,7 @@ This repository tracks my learning and problem-solving journey across 4 major ar
 
 Each folder contains:
 - ✅ My solution files (Mainly Python, C++)
-- 📘 Notes & insights
+- 📘 Notes & insights (handwritten attempts, general notes etc)
 
 
 ## Folder Structure
