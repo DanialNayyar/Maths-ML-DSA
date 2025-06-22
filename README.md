@@ -5,7 +5,7 @@ This repository tracks my learning and problem-solving journey across 4 major ar
 
 1. **Deep Learning / Machine Learning**
 2. **Project Euler (Math-heavy problem solving)**
-3. **LeetCode (DSA & Interview prep)**
+3. **LeetCode & Neetcode (DSA & Interview prep)**
 4. **HackerRank (Programming, SQL, AI, certifications)**
 
 Each folder contains:
