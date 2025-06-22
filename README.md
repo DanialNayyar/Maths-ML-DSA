@@ -17,9 +17,9 @@ Each folder contains:
 
 | Folder        | Purpose                           |
 |---------------|------------------------------------|
-| `deep-ml/`    | Machine & Deep Learning practice   |
-| `project-euler/` | Math & logic problem solving     |
-| `leetcode/`   | DSA + coding interview questions   |
+| `deep-ml`    | Machine & Deep Learning practice   |
+| `project-euler` | Math & logic problem solving     |
+| `leetcode-neetcode`   | DSA + coding interview questions   |
 | `hackerrank/` | Challenges, SQL, AI, competitions  |
 
 
