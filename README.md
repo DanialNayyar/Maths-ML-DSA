@@ -20,7 +20,7 @@ Each folder contains:
 | `deep-ml`    | Machine & Deep Learning practice   |
 | `project-euler` | Math & logic problem solving     |
 | `leetcode-neetcode`   | DSA + coding interview questions   |
-| `hackerrank/` | Challenges, SQL, AI, competitions  |
+| `HackerRank/` | Challenges, SQL, AI, competitions  |
 
 
 This repo will be updated regularly as I learn and solve new problems
