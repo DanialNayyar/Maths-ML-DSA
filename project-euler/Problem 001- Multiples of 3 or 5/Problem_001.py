@@ -1,15 +1,22 @@
 """
+Problem Statement - 
+Multiples of 3 or 5
 Problem 1
 
-Multiples of 3 or 5 -
-Question - 
+If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
 
-If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3,5,6 and 9. The sum of these multiples is 23.
-
-Find the sum of all the multiples of 3 or 5
- below 1000.
-
-Answer = 233168
-
-CODE IS BELOW:
+Find the sum of all the multiples of 3 or 5 below 1000.
 """
+
+def p_001(x):
+    total= 0
+    
+    for i in range(x):
+        if (i % 3 ==0) or (i%5 == 0):
+            total +=i
+        
+    print(total)
+    return total
+
+
+p_001(1000)
