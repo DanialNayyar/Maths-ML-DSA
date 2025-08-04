@@ -7,6 +7,7 @@ This repository tracks my learning and problem-solving journey across 4 major ar
 2. **Project Euler (Math-heavy problem solving)**
 3. **LeetCode & Neetcode (DSA & Interview prep)**
 4. **HackerRank (Programming, SQL, AI, certifications)**
+5. **StrataScratch (Data Science, Data Analysis )**
 
 Each folder contains:
 - ✅ My solution files (Mainly Python, C++)
@@ -21,6 +22,7 @@ Each folder contains:
 | `project-euler` | Math & logic problem solving     |
 | `leetcode-neetcode`   | DSA + coding interview questions   |
 | `HackerRank/` | Challenges, SQL, AI, competitions  |
+| `StrataScratch/` | DataScience, Machine/Deep Learning, SQL |
 
 
 This repo will be updated regularly as I learn and solve new problems
